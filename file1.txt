@@ -1,2 +1,8 @@
 STEP 1:  created by selimbayar on 04/13/21 at 13.30
+<<<<<<< HEAD
+STEP 3:  added by ulas ayyilmaz on 4/13/21 at 14:00
+>>>>>>> e269396a7510e0b7232b2b6bf5b6ffd13e56635f
 STEP 4:  new file created by selimbayar on 04/13/22 at 14:03
+=======
+
+
